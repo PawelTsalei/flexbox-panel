@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #eef2f6; }
+.naglowek { padding: 24px; text-align: center; background: #17365d; color: white; }
+.panel { max-width: 900px; min-height: 420px; margin: 24px auto; padding: 16px; background: white; display: flex; gap: 16px; flex-flow: row wrap;justify-content: center;
+  align-items: stretch;min-height: 420px; align-content: center;  }
+.wydarzenie { padding: 18px; border: 2px solid #4a78a8; border-radius: 10px; background: #f5f9ff; flex: 1 1 250px;
+ }
